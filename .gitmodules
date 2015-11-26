@@ -1,4 +1,4 @@
 [submodule "SAGE"]
 	path = SAGE
-	url = https://github.com/henry-nazare/llvm-sage.git
+	url = https://github.com/AlisaMaas/llvm-sage.git
 	branch = no-qepcad-on-minmax
